@@ -8,6 +8,7 @@ It gathers essential security insights about your system without performing any 
 ⚠️ This tool only scans the local machine. No remote scanning, no exploitation, no offensive operations. Fully safe and educational.
 
 🚀 Features
+
 🔥 1. Full Security Scan
 
 Runs a complete system analysis, including:
